@@ -55,9 +55,13 @@ docker run -p 8000:8000 movie-recommender
 ```bash
 pytest tests/test_api.py -v```
 ```
-
+###  User interface that you see after it launch in browser 
 ![image](https://github.com/user-attachments/assets/186389b0-d29e-4470-bc95-77deb2030390)
+
+### Search the movie from list or you can just type the movie name
 ![image](https://github.com/user-attachments/assets/c8464f1a-8c56-45c3-b107-57113b0f03da)
+
+### Get suggested by movie recommendation model
 ![image](https://github.com/user-attachments/assets/97a1b671-9f7d-44da-a9c9-bc0e02f7709b)
 
 
