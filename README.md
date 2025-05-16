@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+#  Movie Recommendation System
 
 A simple movie recommendation system built using **FastAPI**, **Streamlit**, and **content-based filtering** using the [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata ).
 
@@ -18,7 +18,7 @@ This app gives content-based recommendations for movies by analyzing titles, ove
 
 ---
 
-## 🧪 How to Run Locally
+##  How to Run Locally
 
 ### 1. Clone the repository
 
