@@ -53,7 +53,7 @@ docker run -p 8000:8000 movie-recommender
 
 ### Tests
 ```bash
-pytest tests/test_api.py -v```
+pytest tests/test_api.py -v
 ```
 ###  User interface that you see after it launch in browser 
 ![image](https://github.com/user-attachments/assets/186389b0-d29e-4470-bc95-77deb2030390)
